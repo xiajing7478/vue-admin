@@ -4,7 +4,7 @@
 <script>
 export default {
   name: 'comA',
-  data () {
+  data() {
     return {
       msg: 'this is comA components.......'
     }

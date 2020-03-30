@@ -4,7 +4,7 @@
 <script>
 export default {
   name: 'comB',
-  data () {
+  data() {
     return {
       msg: 'this is comB components.......'
     }
