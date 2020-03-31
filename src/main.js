@@ -5,6 +5,7 @@ import Vue from 'vue'
 import ElementUI from 'element-ui' // 引入element-ui
 import 'element-ui/lib/theme-chalk/index.css'
 // import locale from 'element-ui/lib/locale/lang/en' // lang i18n
+import '@/styles/index.scss' // global css
 import App from './App'
 import router from './router'
 import './components/global.js' // 自动注册全局组件
